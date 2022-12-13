@@ -1,6 +1,6 @@
 # Portfolio WordPress Theme
 
-![](https://imgur.com/SWLWfxT)
+![](https://github.com/berkbirkan/PortfolioWordpressTheme/blob/main/portfolio-theme.gif)
 
 A clean and modern WordPress theme for your Portfolio websites.
 
