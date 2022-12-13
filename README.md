@@ -1,6 +1,6 @@
 # Portfolio WordPress Theme
 
-A clean and modern WordPress theme for bloggers and online publishers.
+A clean and modern WordPress theme for your Portfolio websites.
 
 ## Table of Contents
 
@@ -41,5 +41,5 @@ You can customize the appearance of this theme by going to Appearance > Customiz
 
 - This theme uses the [Bootstrap](https://getbootstrap.com) framework for its responsive design.
 - The social media icons are from the [Font Awesome](https://fontawesome.com) icon font library.
-- The custom header images are from [Unsplash](https://unsplash.com).
+- The custom header images are from [FreePik](https://www.freepik.com/).
 - The theme was developed by [Berk Birkan](https://berkbirkan.com).
